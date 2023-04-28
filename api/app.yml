@@ -1,0 +1,6 @@
+apps:
+  - script: ./lib/index.js
+    name: room
+    watch: true
+    env:
+      PORT: 3200
